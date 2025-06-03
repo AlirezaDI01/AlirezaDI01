@@ -21,6 +21,10 @@ I'm a self-taught developer from Iran 🇮🇷.
 
 <br/>  
 
+### Skill set
+<img src="https://github.com/AlirezaDI01/AlirezaDI01/blob/main/skill_set.png" align="left" style="width: 100%" />  
+
+<br/>  
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
@@ -34,6 +38,3 @@ If things goes well, this section should automatically be replaced by a list of 
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
