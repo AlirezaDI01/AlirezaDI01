@@ -23,7 +23,7 @@ I'm a self-taught developer from Iran 🇮🇷.
 
 ## My Skill set
 
-<img src="https://github.com/AlirezaDI01/AlirezaDI01/blob/main/skill_set.png" align="left" style="width: 100%; margin-block: 32px" />  
+<img src="https://github.com/AlirezaDI01/AlirezaDI01/blob/main/skill_set.png" align="left" style="width: 100%; margin-bottom: 32px" />  
 
 <br/> 
 
