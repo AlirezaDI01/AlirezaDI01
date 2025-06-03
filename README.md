@@ -15,8 +15,9 @@ I'm a self-taught developer from Iran 🇮🇷.
 
 -  🔴 Alureka is my one-man company [telegram channel](http://t.me/alureka).  
   
-
-<img src="https://github.com/AlirezaDI01/AlirezaDI01/blob/main/aluraka.png" align="left" style="width: 100%;display: block ;margin-bottom: 32px;  margin-top: 32px" />  
+<div style="width: 100%;display: block ;margin-bottom: 32px;  margin-top: 32px"
+<img src="https://github.com/AlirezaDI01/AlirezaDI01/blob/main/aluraka.png" align="left"/> 
+</div> 
   
 
 <br/>
