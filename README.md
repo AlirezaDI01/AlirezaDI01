@@ -19,16 +19,19 @@ I'm a self-taught developer from Iran 🇮🇷.
 <img src="https://github.com/AlirezaDI01/AlirezaDI01/blob/main/aluraka.png" align="left" style="width: 100%" />  
   
 
-<br/>  
-<br/>  
+<br/>   
 
 ## My Skill set
+
+
 <img src="https://github.com/AlirezaDI01/AlirezaDI01/blob/main/skill_set.png" align="left" style="width: 100%" />  
 
 <br/> 
-<br/>  
+ 
 
-## Recent Blog Posts  
+## Recent Blog Posts 
+
+
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
