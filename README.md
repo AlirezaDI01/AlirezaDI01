@@ -16,7 +16,7 @@ I'm a self-taught developer from Iran 🇮🇷.
 -  🔴 Alureka is my one-man company [telegram channel](http://t.me/alureka).  
   
 
-![Alureka logo](https://github.com/AlirezaDI01/AlirezaDI01/blob/main/aluraka.png)  
+<img src="https://github.com/AlirezaDI01/AlirezaDI01/blob/main/aluraka.png" align="left" style="width: 100%" />  
   
 
 <br/>  
