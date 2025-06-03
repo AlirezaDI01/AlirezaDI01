@@ -20,10 +20,12 @@ I'm a self-taught developer from Iran 🇮🇷.
   
 
 <br/>  
+<br/>  
 
-### Skill set
+## My Skill set
 <img src="https://github.com/AlirezaDI01/AlirezaDI01/blob/main/skill_set.png" align="left" style="width: 100%" />  
 
+<br/> 
 <br/>  
 
 ## Recent Blog Posts  
